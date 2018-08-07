@@ -424,11 +424,7 @@ button:focus,
     display   : block;
     max-width : 100%;
     }
-.portfolio-item .portfolio-thumb a img {
-    height    : auto;
-    display   : block;
-    max-width : 100%;
-    }
+
 
 .portfolio-item .portfolio-info {
     position   : absolute;
